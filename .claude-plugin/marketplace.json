@@ -1,0 +1,14 @@
+{
+  "name": "drxs-ai-expo-plugin",
+  "owner": {
+    "name": "robinhserrano",
+    "url": "https://github.com/robinhserrano"
+  },
+  "plugins": [
+    {
+      "name": "drxs-ai-expo-plugin",
+      "description": "Best-practice Claude Code skills for Expo/React Native (Expo Router, Zustand, TanStack Query, Drizzle, MMKV, FlashList, Reanimated, and more).",
+      "source": "./"
+    }
+  ]
+}
