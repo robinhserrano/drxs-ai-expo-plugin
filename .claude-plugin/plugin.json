@@ -1,5 +1,5 @@
 {
-  "name": "rn-native",
+  "name": "drxs-ai-expo-plugin",
   "version": "0.0.1",
   "description": "Best-practice skills for React Native and Expo covering navigation (Expo Router), state management (Zustand/Context), server state (TanStack Query), forms (React Hook Form/Zod), local data (Drizzle/Expo SQLite), storage (MMKV), lists (FlashList), animations (Reanimated/Gesture Handler), theming, testing, accessibility, internationalization, security, layered architecture, Expo SDK upgrades, license compliance, and an autonomous quality-gate loop that drives lint, format, test, and coverage to green.",
   "license": "MIT",

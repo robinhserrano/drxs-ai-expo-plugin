@@ -1,12 +1,12 @@
-# rn-native
+# drxs-ai-expo-plugin
 
-A [Claude Code](https://claude.ai/code) plugin that accelerates React Native/Expo development with best-practice skills, covering the 2026 recommended stack: Expo, Expo Router, TypeScript, Drizzle + Expo SQLite, MMKV, Zustand/Context, TanStack Query, FlashList, React Hook Form/Zod, and Reanimated/Gesture Handler. Forked from [vgv-ai-flutter-plugin](https://github.com/VeryGoodOpenSource/very_good_ai_flutter_plugin)'s structure; pairs with [rn-orbit](../rn-orbit) for workflow orchestration.
+A [Claude Code](https://claude.ai/code) plugin that accelerates React Native/Expo development with best-practice skills, covering the 2026 recommended stack: Expo, Expo Router, TypeScript, Drizzle + Expo SQLite, MMKV, Zustand/Context, TanStack Query, FlashList, React Hook Form/Zod, and Reanimated/Gesture Handler. Forked from [vgv-ai-flutter-plugin](https://github.com/VeryGoodOpenSource/very_good_ai_flutter_plugin)'s structure; pairs with [drxs-expo-orbit-workflow](https://github.com/robinhserrano/drxs-expo-orbit-workflow) for workflow orchestration.
 
 ## Installation
 
 ```text
 /plugin marketplace add <your-marketplace-repo>
-/plugin install rn-native
+/plugin install drxs-ai-expo-plugin
 ```
 
 ## Skills
