@@ -4,7 +4,7 @@
 # Non-blocking — always exits 0.
 
 if ! command -v node &>/dev/null; then
-  echo "⚠️ Node.js is not installed. rn-native's skills assume npm/npx are available on PATH."
+  echo "⚠️ Node.js is not installed. drxs-ai-expo-plugin's skills assume npm/npx are available on PATH."
   exit 0
 fi
 

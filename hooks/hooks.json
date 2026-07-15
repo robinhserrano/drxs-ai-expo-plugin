@@ -1,5 +1,5 @@
 {
-  "description": "rn-native hooks for Expo/React Native development",
+  "description": "drxs-ai-expo-plugin hooks for Expo/React Native development",
   "hooks": {
     "SessionStart": [
       {
